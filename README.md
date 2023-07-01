@@ -9,6 +9,7 @@
  It displays the data like Temperature,Humidity and Windspeed.
  
  It is an responsive webpage built by using
+ 
  1.HTML
  2.CSS
  3.JAVASCRIPT
